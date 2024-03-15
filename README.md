@@ -8,7 +8,7 @@ base_url = 'https://database.domain.com/rest/v3/short-urls'
 domain = 'go.domain.com'
 ```
 
-in the autohotkeyscript change the variabel for the path
+in the autohotkeyscript change the variable for the path
 
 ```autohotkey
 pythonPath :="C:\Users\Ayoub\Documents\Shlink API\shorten-url.py "
