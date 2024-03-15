@@ -11,6 +11,7 @@ def shorten_url(long_url):
     api_key = creds.api_key
 
     # Data for creating short URL
+    # Change the tag to something identifiable for you
     data = {
         "longUrl": long_url,
         "tags": ["Windows 11 API Keyboard Shortcut"],
