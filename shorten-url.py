@@ -13,7 +13,7 @@ def shorten_url(long_url):
     # Data for creating short URL
     data = {
         "longUrl": long_url,
-        "tags": ["Windows 11 API Keyboar Shortcut"],
+        "tags": ["Windows 11 API Keyboard Shortcut"],
         "crawlable": False,
         "forwardQuery": True,
         "findIfExists": True,
