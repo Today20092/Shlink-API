@@ -9,6 +9,7 @@ domain = 'go.domain.com'
 ```
 
 in the autohotkeyscript change the variable for the path
+make sure to leave the space at the end, inside of the quote
 
 ```autohotkey
 pythonPath :="C:\Users\Ayoub\Documents\Shlink API\shorten-url.py "
